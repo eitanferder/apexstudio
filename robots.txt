@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://apex-studio123.netlify.app/sitemap.xml
